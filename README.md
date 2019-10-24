@@ -1,7 +1,7 @@
 # Mean-Course
 Following along with the [Angular & NodeJS - The MEAN Stack Guide](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/).
 
-##Course Completion
+## Course Completion
 12/149 - 8%
 
 ## Resources
