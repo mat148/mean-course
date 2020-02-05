@@ -2,7 +2,7 @@
 Following along with the [Angular & NodeJS - The MEAN Stack Guide](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/).
 
 ## Course Completion
-23/149 - 15%
+31/149 - 20.81%
 
 ## Resources
 * [gitignore.io](gitignore.io)
